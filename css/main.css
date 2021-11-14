@@ -3123,10 +3123,10 @@ a {
   content: "\f108";
   font-family: 'FontAwesome';
 }
-.portfolio__description-type.desc__mod:before {
+/* .portfolio__description-type.desc__mod:before {
   content: "\f10b";
   font-family: 'FontAwesome';
-}
+} */
 .portfolio__title {
   font-size: 35px;
   font-family: 'fira_sansregular';
