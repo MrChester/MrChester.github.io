@@ -1,0 +1,9 @@
+@import "./reset.css";
+@import "./fonts/poppins.css";
+@import "./fonts/dmsans.css";
+
+h1 {
+  font-family: "Poppins", Verdana, sans-serif;
+  font-size: 32px;
+  font-weight: normal;
+}
